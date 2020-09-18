@@ -1,0 +1,101 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background-color: #161615;
+   
+}
+
+#sun{
+   
+    color: red;
+}
+
+table,th,td{
+   
+    width: 30%;
+    table-layout: fixed;
+    text-align: unset;
+    border-radius: 10px;
+    
+ 
+    
+}
+
+td{
+    height: 10rem;
+    vertical-align: text-top;
+    color:#646464;
+    
+  
+}
+th{
+    color:#ffffff;
+    
+    font-size: smaller;
+}
+.b{
+    
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    border: 2px solid teal ;
+    
+}
+.date{
+    color: teal;
+    text-decoration: underline;
+    padding-bottom: 10px;
+    b;
+
+}
+.m{
+    padding-top: 1px;
+    color: teal;
+    border-left: 3px solid ;
+    font-size: 13px;
+}
+
+.off{
+   
+   opacity: 13%;
+}
+.tbl{
+    
+   position: absolute;
+   right: 130px;
+   padding: 10px;
+top: 100px;
+   padding-top: 0p;
+  
+
+}
+.header{
+    padding: 25px;
+    position: absolute;
+    left: 350px;
+    top: 190px;
+}
+
+.frame{
+    position: absolute;
+}
+.txt{
+    position: absolute;
+    top: 8.8rem;
+    left: 8.4rem;
+    
+}
+#year{
+    font-family: 'Courier New', Courier, monospace;
+    color: teal;
+    font-size: 100px;
+    
+}
+#mon{
+   position: absolute;
+   top: 17rem;
+   left: 17rem;
+   color: white;
+  
+}
