@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+}
+
+.vid{
+    
+    height: 55rem;
+    margin-top: 100px;
+}
+.logo{
+    position: absolute;
+    left: 3%;
+}
+H1{
+    position: absolute;
+    color: aliceblue;
+    left: 15%;
+    top: 4%;
+    font-family: 'Roboto Mono', monospace;
+}
+.parag{
+    position: absolute;
+    color: white;
+    top:10%;
+    left:60%;
+    top: 60%;
+    background-color: black;
+    padding: 1%;
+    opacity: 60%;
+    font-size: 16px;
+}
+p{
+    font-family: 'Roboto Mono', monospace;
+}
+#triang{
+    position: absolute;
+    top: 53%;
+    left: 45%;
+    opacity: 80%;
+    width: 300px;
+}
